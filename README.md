@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ironwomancode
 - 👀 I’m interested in applying my knowledge of improving processes and my mindset is not only for one mission but how for achieving what is impossible.
-- 🌱 I’m currently learning Python, CSS, Html, Javascript and UI Design
-- 💞️ I’m looking to collaborate on some of the projects done in my software development course
+- 🌱 I’m currently developying Python, CSS, Html, Javascript, UI Design, Unity, C#, React Native, Django and others.
+- 💞️ I’m looking to demonstrate on some of the projects done from my last two years of experience.
 - 📫 How to reach me :) sending messages
 -
 
